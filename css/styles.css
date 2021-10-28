@@ -281,35 +281,6 @@ h1, h2, h3, p {
     height: 70px;
 }
 
-
-/* .benefits-item::before {
-    display: block;
-    content: '';
-    height: 120px;
-    margin-bottom: 30px;
-    border-radius: 4px;
-
-    background-color: #F5F4FA;
-    background-repeat: no-repeat;
-    background-position: center;
-} */
-
-/* .benefits-icon-antenna::before {
-    background-image: url(../img/benefits/antenna.svg);
-}
-
-.benefits-icon-clock::before {
-    background-image: url(../img/benefits/clock.svg);
-}
-
-.benefits-icon-diagram::before {
-    background-image: url(../img/benefits/diagram.svg);
-}
-
-.benefits-icon-astronaut::before {
-    background-image: url(../img/benefits/astronaut.svg);
-} */
-
 .benefits-title {
     margin-bottom: 10px;
     font-size: 14px;
